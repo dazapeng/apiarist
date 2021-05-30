@@ -16,7 +16,7 @@ num_nodes = 3
 # Every bee has it's day
 versions = {
     'clef': '0.4.12',
-    'bee': '0.6.1',
+    'bee': '0.5.3',
     'geth': 'v1.10.2'
 }
 
@@ -34,7 +34,7 @@ clef = {
 
 # Network port settings - let's make it easier to share pollen!
 network = {
-    'base_host_port': 1633,
+    'base_host_port': 1800,
     'base_external_port': 31000,
     'host_ip_addr': "192.168.1.100",
     'external_ip_addr': "199.199.199.199",
